@@ -6,7 +6,6 @@ export const CalendarEvent = ({event}) => {
     return (
         <>
         <strong>{title}</strong>
-        <div>{user.name}</div>
         </>
     )
 
