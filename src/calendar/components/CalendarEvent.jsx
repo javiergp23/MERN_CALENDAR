@@ -1,7 +1,6 @@
+//completar funcion
+export const CalendarEvent = () => {
 
-export const CalendarEvent = ({event}) => {
-   
-    
     return (
         <>
         <strong></strong>

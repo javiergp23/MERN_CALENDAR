@@ -20,7 +20,6 @@ export const RegisterPage = () => {
               placeholder="Contraseña"
             />
           </div>
-
           <div className="form-group mb-2">
             <input
               type="password"
@@ -28,7 +27,6 @@ export const RegisterPage = () => {
               placeholder="Repita la contraseña"
             />
           </div>
-
           <div className="d-grid gap-2">
             <input type="submit" className="btnSubmit" value="Crear cuenta" />
           </div>
