@@ -3,7 +3,6 @@ import { format, parse, startOfWeek, getDay} from 'date-fns';
 // import enUs from 'date-fns/locale/en-US';
 import esES from 'date-fns/locale/es';
 
-
 const locales = {
     'es': esES,
   }
@@ -14,4 +13,4 @@ export const localizer = dateFnsLocalizer({
     startOfWeek,
     getDay,
     locales,
-  })
+})
